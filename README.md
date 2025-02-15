@@ -1,5 +1,5 @@
 ## Henry
-*Software Engineer with love for simple and clean UI/UX*
+*Frontend Engineer*
 
 
 
